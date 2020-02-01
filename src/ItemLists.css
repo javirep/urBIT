@@ -1,0 +1,24 @@
+.items-container-div{
+    padding: 3vw;
+}
+
+
+.items-container-div h2{
+    text-align: left;
+}
+
+.item-image{
+    height: 350px;
+    width: 350px;
+}
+
+.items-container-sub-div{
+    display: flex;
+    overflow: scroll;
+    justify-content: space-between;
+}
+
+.item-card-div{
+    padding: 1vw;
+    border: 1px solid black;
+}
